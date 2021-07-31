@@ -19,7 +19,15 @@ Download the Dataset [here](https://drive.google.com/file/d/1JpYHRy2hgOL1X1z9HNI
 - Use the bibtex below:
 
 ```bibtex
-@ARTICLE{9343314,  author={B. {Manda} and P. {Bhaskare} and R. {Muthuganapathy}},  journal={IEEE Access},   title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   year={2021},  volume={9},  number={},  pages={22711-22723},  doi={10.1109/ACCESS.2021.3055826}}
+@ARTICLE{9343314,  
+author={Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan},  
+journal={IEEE Access},   
+title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   
+year={2021},  
+volume={9},  
+number={},  
+pages={22711-22723},  
+doi={10.1109/ACCESS.2021.3055826}}
 ```
 
 - Or use the plain text below
