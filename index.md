@@ -28,8 +28,16 @@ Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan
 
 Please cite our paper if you use the CADNET dataset.
 
-```
-@ARTICLE{9343314,  author={Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan},  journal={IEEE Access},   title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   year={2021},  volume={9},  number={},  pages={22711-22723},  doi={10.1109/ACCESS.2021.3055826}}
+```bibtex
+@ARTICLE{9343314,  
+author={Manda, Bharadwaj and Bhaskare, Pranjal and Muthuganapathy, Ramanathan},  
+journal={IEEE Access},   
+title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   
+year={2021},  
+volume={9},  
+number={},  
+pages={22711-22723},  
+doi={10.1109/ACCESS.2021.3055826}}
 ```
 
 ## Acknowledgements
