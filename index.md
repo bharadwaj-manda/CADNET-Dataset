@@ -6,7 +6,7 @@ layout: default
 
 > **(2021, January 21)** This is the repository for the 'CADNET' Dataset, associated with the paper ["A Convolutional Neural Network Approach to the Classification of Engineering Models"](https://ieeexplore.ieee.org/document/9343314). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](bharadwaj-manda.github.io/)
 
-## CADNET Dataset
+## About the CADNET Dataset
 
 <img src="data_auto.jpg" alt="data" width="500" height="400"/>
 
@@ -21,6 +21,9 @@ This license is one of the Creative Commons licenses and allows users to share t
 
 Download the Dataset [here](https://drive.google.com/file/d/1JpYHRy2hgOL1X1z9HNIcHv7v-PSJqxaC/view?usp=sharing)
 
+Download the associated Python scripts and files [here](https://drive.google.com/file/d/1XnlBu8HeR43px01rQKA9k3e1DioTc3VT/view?usp=sharing)
+
+Instructions to use the Dataset and files can be found [here]()
 
 ## Authors
 
