@@ -38,5 +38,5 @@ class File_Searcher:
 if __name__ == "__main__":
     # lis = ['test', 'train']
     # for name in lis:
-    File_Searcher(search_folder='/home/bharadwaj/Pran/Pran_LFD/CADNET2020/Data', output_file='file_list',
+    File_Searcher(search_folder='CADNET_3317', output_file='file_list',
                   limit=2000)

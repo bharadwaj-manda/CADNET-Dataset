@@ -16,8 +16,8 @@ from keras.preprocessing.image import ImageDataGenerator
 
 def network():
 
-    train_folder = '/home/bharadwaj/Research/Classification/Data_lfd_split_train_test/train_dir'
-    test_folder = '/home/bharadwaj/Research/Classification/Data_lfd_split_train_test/test_dir'
+    train_folder = 'Data_lfd_split_train_test/train_dir'
+    test_folder = 'Data_lfd_split_train_test/test_dir'
     target_size = (256, 256)
     batch_size = 20
     np_epochs = 100

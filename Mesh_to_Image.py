@@ -147,5 +147,5 @@ class Mesh_to_Image:
 
 if __name__ == "__main__":
 
-    Mesh_to_Image(image_folder='/home/bharadwaj/Pran/Pran_LFD/CADNET2020/Data_lfd', files_list= 'file_list.txt')
+    Mesh_to_Image(image_folder='Data_lfd', files_list= 'file_list.txt')
 
