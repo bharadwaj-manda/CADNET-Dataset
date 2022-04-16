@@ -13,6 +13,23 @@ This license is one of the Creative Commons licenses and allows users to share t
 
 Download the Dataset [here](https://drive.google.com/file/d/1JpYHRy2hgOL1X1z9HNIcHv7v-PSJqxaC/view?usp=sharing)
 
+## How to use this repository
+
+These steps will help you implement the paper. Follow the steps given below in the exact same sequence
+
+1. Download the CADNET dataset (zip file) from the link provided above
+
+2. Extract the contents of the zip file. You should see a folder named CADNET_3317. This contains 43 categories of 3D CAD models (stl files).
+
+3. Now download all the Python scripts provided in the repo and store them in the same directory as the CADNET_3317 folder.
+
+4. Run the 'File_Searcher.py' - This generate a 'file_list.txt' containing paths to all the stl files.
+
+5. Run the 'Mesh_to_Image.py' - This will generate a folder 'Data_lfd' containg all the 20 view images of each CAD model
+
+6. Run the 'split_train_test.py' - to split the lfd folder into train and test split sets.
+
+7. Now that the data pre-processing is done, you can go ahead and run the 'LFD_CNN_ResNet.py' and train the NeuralNet
 
 ## To cite this Dataset or Paper:
 
