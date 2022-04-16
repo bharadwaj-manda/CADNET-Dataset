@@ -21,9 +21,9 @@ This license is one of the Creative Commons licenses and allows users to share t
 
 Download the Dataset [here](https://drive.google.com/file/d/1JpYHRy2hgOL1X1z9HNIcHv7v-PSJqxaC/view?usp=sharing)
 
-Download the associated Python scripts and files [here](https://drive.google.com/file/d/1XnlBu8HeR43px01rQKA9k3e1DioTc3VT/view?usp=sharing)
+Download the associated Python scripts and files [here](https://drive.google.com/file/d/1vKqIepN5jhnd_3XlLjBOWk4OMrAd0ncb/view?usp=sharing)
 
-Instructions to use the Dataset and files can be found [here]()
+Instructions to use the Dataset and files can be found [here](https://docs.google.com/document/d/10EVouqz-YhPfpD-QC2g7XuyiRSoEaNggK8WM8NJR9hw/edit?usp=sharing)
 
 ## Authors
 
